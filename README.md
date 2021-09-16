@@ -58,6 +58,20 @@ Project Interface With Text:<br>
 
 <hr>
 
+## Citing
+```
+@misc{AI Text Generation,
+  author = {Sanjoy Biswas},
+  title = {Voice Enable Chatbot},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  url="https://github.com/imsanjoykb/Voice-Enable-ChatBot",
+}
+```
+
+<hr>
+
 ## Conclusion:
 With Artificial Intelligence and Natural Language Processing technologies, My chatbots are able to make inferences about what users primarily mean, or their intent.
 They automatically adjust classification parameters depending on the success rates of the answers.
